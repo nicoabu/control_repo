@@ -1,5 +1,5 @@
 node default {
-  file {'/root/nico':
+  file {'/tmp/nico':
     ensure => file,
     content => 'Tuvieja en tanga.com',
   }
