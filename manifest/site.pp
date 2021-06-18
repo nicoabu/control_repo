@@ -1,5 +1,5 @@
 node default {
-  file {'/tmp/nico':
+  file {'/root/readme':
     ensure => file,
   }
 }
